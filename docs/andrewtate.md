@@ -1,3 +1,4 @@
 # Top G
 
-![Video](/assets/bottom_g.gif)
+![Bottom G slackline](/assets/bottom_g.mp4)
+![Bottom G dancing](/assets/bottom_g2.mp4)
