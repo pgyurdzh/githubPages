@@ -1,4 +1,4 @@
-# Website title
+# Home
 
 ## Amogus
 
